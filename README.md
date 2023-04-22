@@ -75,8 +75,8 @@ allure serve allure-results
 - Find out the actual TPS for if 2000 user can give load within 1 hour **Expected load:** 2000 user, per hour.
 - **Actual load:** what TPS? Breakdown the expected TPS in spread sheet and find out the actual TPS.
 - For 600, 900s and 1200s load, add Jmeter UI screenshot </br>
-- The load testing strategy is written in standard form: </br>
-</br>
+- The load testing strategy is written in standard form: </br> </br>
+
 ![Load testing strategy](https://user-images.githubusercontent.com/59876702/233617891-ecfdbe85-3c98-47ac-a0ee-0053a4b635b6.PNG) </br>
 
 ### **Load_testing Summary Report**

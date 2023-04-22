@@ -62,8 +62,8 @@ allure serve allure-results
 
 ![Allure5](https://user-images.githubusercontent.com/59876702/233625281-b5f1c0b5-b005-4710-b6ac-1a2ce14c957e.PNG)  </br>
 
-![Allure7](https://user-images.githubusercontent.com/59876702/233625554-296e7fcb-2bb5-47f7-97e0-c5359bc1522e.PNG)  </br>
-                            **Figure: Package**
+![Allure7](https://user-images.githubusercontent.com/59876702/233625554-296e7fcb-2bb5-47f7-97e0-c5359bc1522e.PNG)  </br>                            
+![Package](https://user-images.githubusercontent.com/59876702/233764027-cb987d80-6476-455b-ad39-a80258e71dd3.PNG)  </br>                            
 
 
 - **Here is the overall walkthrough of the project:** [Video](https://drive.google.com/file/d/1l_4NF-x4bpDsFrXfGaIwO12qdkuEpN2S/view?usp=sharing) </br>

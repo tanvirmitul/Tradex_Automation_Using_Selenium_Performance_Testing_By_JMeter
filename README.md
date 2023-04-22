@@ -12,7 +12,7 @@ The following key modules/pages are automated:
 Key test cases (total **75**) are written & automation performed (total **56**) for each module and test suites created including the positive and negative test cases.
 For failed test cases it will take a screenshot aswell at the point of failure. </br>
 **The test runner code can be extracted from this:**
-[TestRunner](https://github.com/tanvirmitul/Tradex_Automation_Selenium_Performance_Testing_JMeter/tree/main/src/test/java/testrunner).</br>
+[TestRunner](https://github.com/tanvirmitul/Tradex_Automation_Selenium_Performance_Testing_JMeter/tree/main/src/test/java/testrunner)</br>
 **The test cases are written following standard test case format in this excel file:**
 [Test_cases](https://docs.google.com/spreadsheets/d/1mXh8u5QwzKij1wrGjaf6hGOwgcsra5Zl6mkPvbuaRsY/edit?usp=sharing) </br>
 **The checklist are written following standard format in this google docs file:**

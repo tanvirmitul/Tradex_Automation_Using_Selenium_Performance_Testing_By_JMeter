@@ -66,7 +66,7 @@ allure serve allure-results
 ![Package](https://user-images.githubusercontent.com/59876702/233764027-cb987d80-6476-455b-ad39-a80258e71dd3.PNG)  </br>                            
 
 
-- **Here is the overall walkthrough of the project:** [Video](https://drive.google.com/file/d/1l_4NF-x4bpDsFrXfGaIwO12qdkuEpN2S/view?usp=sharing) </br>
+- *Here is the overall walkthrough of the project:* [Video](https://drive.google.com/file/d/1l_4NF-x4bpDsFrXfGaIwO12qdkuEpN2S/view?usp=sharing) </br>
 
  
  # Performance testing
@@ -79,7 +79,7 @@ allure serve allure-results
 - The load testing strategy is written in standard form: </br> </br>
 ![Load testing strategy](https://user-images.githubusercontent.com/59876702/233617891-ecfdbe85-3c98-47ac-a0ee-0053a4b635b6.PNG) </br>
 
-### **Load_testing Summary Report**
+### **Load_testing Summary Report** </br>
 ![loadreport1](https://user-images.githubusercontent.com/59876702/233621454-005d8c2b-4f0a-47a3-945e-51864fb43208.PNG) </br>
 ![loadreport2](https://user-images.githubusercontent.com/59876702/233621585-a3ed9d52-780d-4921-912a-3466063dddae.PNG)  </br>
 ![loadreport3](https://user-images.githubusercontent.com/59876702/233621664-a3a92309-cea0-4f26-8ba0-a7618518ee67.PNG)  </br>

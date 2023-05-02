@@ -84,7 +84,7 @@ allure serve allure-results
 
 ![loadtest60s](https://user-images.githubusercontent.com/59876702/235603732-6d89f92f-224d-45de-9554-2e9022ea0635.PNG) </br>
 
-- User: 66, Time: 70 secs, Success: 100%, Error: 0.00%
+- ***User: 66, Time: 70 secs, Success: 100%, Error: 0.00%***
  
 ![loadtest70s](https://user-images.githubusercontent.com/59876702/235603865-e993eb52-b834-49be-bbbd-4f1a237c77e2.PNG) </br>
 

@@ -86,7 +86,7 @@ allure serve allure-results
 
 - ***User: 66, Time: 70 secs, Success: 100%, Error: 0.00%***
  
-![loadtest70s](https://user-images.githubusercontent.com/59876702/235603865-e993eb52-b834-49be-bbbd-4f1a237c77e2.PNG) </br>
+![loadtest70s](https://user-images.githubusercontent.com/59876702/235605863-ee253412-ee3f-40ba-bfef-779b586a4fae.PNG) </br>
 
 
 ## **Stress testing**
@@ -102,4 +102,5 @@ allure serve allure-results
 ![stressreport2](https://user-images.githubusercontent.com/59876702/233623010-d06a3b1a-4fea-4fbc-a73a-74e0adc83617.PNG)  </br>
 ![stressreport3](https://user-images.githubusercontent.com/59876702/233623098-788eb3a3-8ea5-4b39-8c79-72f590a37016.PNG)  </br>
 
+![loadtest70s](https://user-images.githubusercontent.com/59876702/235605863-ee253412-ee3f-40ba-bfef-779b586a4fae.PNG)
 
